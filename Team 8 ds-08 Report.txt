@@ -1,0 +1,100 @@
+﻿Team Name - Team 8 ds-08
+
+
+Team Details
+
+
+Mentors
+
+
+Deepika Rana - deepikarana500@gmail.com
+Bhawna Aggarwal - bhawna11agg@gmail.com
+  
+Github Repo Link:
+
+
+https://github.com/Bhawna11agg/Uplift-Project
+
+
+Participants
+
+
+Anushka Shukla - shuklaannushka@gmail.com
+Deepali Takyar - takyar.deepali30@gmail.com
+Mohit Radadiya - radadiyamohit909@gmail.com
+Prashant Prajapati - prashantprajapati159@gmail.com
+Pratik Barhate - barhatepp777@gmail.com
+Pratiksha Katyayni - pratikshapandey323@gmail.com
+Prince Gupta - princegupta27900@gmail.com
+Priyanka Jain - priyankajainmodi@gmail.com
+Pushyami Paritala - Pushyamiparitala@gmail.com
+Rachit Goyal - goyalrachit02@gmail.com
+Rakhi K - rakhime3@gmail.com
+Rakhi Mallesh - malleshrakhi@gmail.com
+Rakshith N V - rakshithnvblr@gmail.com
+Rahul Arora - rayrayc786@gmail.com
+Raja Kathireshh C - rajakathireshh@gmail.com
+R Sowjanya - rsow105@gmail.com
+Rajat Verma - rajatverma5885045@gmail.com
+Rajesh Paswan - rk.paswan5458@gmail.com
+Rajlaxmi Sen - rajlaxmisen574@gmail.com
+
+
+
+
+Learning Plan and Monthly Goals
+
+
+June
+
+
+Week 1: Team Introduction and communication
+
+
+Week 2: Introduction of Data Structure and Algorithm, Pointers/Objects (for beginners), Arrays, Strings, Analysis of time and Space complexity, Git and Github(for beginners)
+
+
+Week 3: Classes,Linked Lists - Singly, Doubly, Circular, Stacks, Queues
+
+
+Week 4: Sorting, Searching algorithms along with their use case and time complexity
+
+
+July
+
+
+Week 1: Maps (Dictionaries/Hash Maps), Trees, BST, Tree Traversal Techniques
+
+
+Week 2: Hash table, Graphs
+
+
+Week 3: Recursion and backtracking along with standard problems - Divide and Conquer
+ 
+Week 4: Greedy method (Knapsack, Prim’s algorithm, Kruskal’s algorithm, Dijkstra, Bellmanford)
+
+
+August
+
+
+Week1:  Dynamic programming (0/1 Knapsack, Travelling Salesman Problem, Coin change) Standard Problems to be discussed, Timed contest of data structures and algorithms done till now (mixed question of advanced and beginner)
+
+
+Week 2: STL, Any topic which needs to be practiced more, Start working on the project
+
+
+Week 3 & Week 4: Working on the project of menu driven game
+
+
+Questions shared will be of varied difficulty and will be discussed on a weekly basis with deadlines announced for submitting solutions. 
+
+
+Final Project Submission
+
+
+A menu driven program with choices of 5 games:
+* NXN Sudoku Solver
+* Rat in a Maze
+* Guessing Game
+* Tic Tac Toe
+* Snake Game
