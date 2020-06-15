@@ -1,0 +1,27 @@
+WORK PLAN
+Team10-ds10
+
+
+As per the consensus of all three Mentors and Moderator, following work plan has been framed: 
+* Topics will be covered weekly as per the given guidelines with some add-ons mentioned below:
+* Week1 - Arrays
+* Week2 - Strings
+* Week3 - LinkedLists
+* Week4 - Trees
+* Week5 - Stacks and Queues
+* Week6 - Graph
+* Week7 - Matrix
+* Week8 - Heap
+* Week9 - Hashing
+* Week10 - BST
+* Week11 - Dynamic Programming
+* Week12 - Recap and Puzzles
+
+
+* Resources will be shared timely to assist the learning process of participants.
+
+
+* Important questions on DSA for practice purpose will be regularly updated at https://github.com/anubansal17/Uplift-Project-Girlscript-Mentorship
+
+
+* There will be weekly quizzes to ensure engagement of participants that will eventually help in analysing the growth and deciding further steps. (One such was conducted on 14th June 2020)
