@@ -19,3 +19,4 @@ Sl. No. |Name                 |  Email address       |
 3 month long Data Structures And Algorithms Practice Problems in various programming Languages are covered here.
 
 <b> [Contributors list](https://github.com/AasthaGithub/data-structures/blob/Team-DS12/Team%20DS12%20Details.csv) </b><br>
+<b> [Additional List of contributing members](https://github.com/AasthaGithub/data-structures/blob/Team-DS12/Names.csv) </b> <br>
