@@ -18,7 +18,7 @@ Follow the links to the resources. If multiple videos/links are given in same po
     * [Assignment 3](https://www.hackerrank.com/week1-assignment3)
 
 
-## Week 2  (Currently going on)
+## Week 2 (Completed)
    The recusion is one of the very interesting topic in DSA, and very-difficult to undersand at it's the application level. So, practice more and more questions on this topic. ATTEND SESSIONS REGULARLY, as mentors will be explaining most of the topics, for better understanding of concepts.
   
   * [Recursion Concept (along with Basic Problems)](https://github.com/Shubham230198/The-Uplift-Project-DSA/blob/master/Week%202/Recursion_Basics.md)
@@ -36,12 +36,26 @@ Follow the links to the resources. If multiple videos/links are given in same po
     
   * [Extra Questions on Recursion](https://web.stanford.edu/class/cs9/lectures/06/Recursion%20Problems.pdf) If anyone want to do more questions, on his/her own.
   
-## Week 3
+## Week 3 (Completed)
   
   * [Infix, Prefix and Postfix Notations (and their conversions)](https://github.com/Shubham230198/The-Uplift-Project-DSA/blob/master/Week%203/Infix-Prefix-Postfix%20Notations.md)
+  * [Object Oriented Programming (OOPs)](https://github.com/Shubham230198/The-Uplift-Project-DSA/blob/master/Week%203/OOPs.md)
+  
+  * Assignments;
+    * [Assignment 1](https://www.hackerrank.com/week3-assignment1)
 
-## Week 4
-
+## Week 4 (OnGoing)
+  
+  * [Stack and it's content](https://github.com/Shubham230198/The-Uplift-Project-DSA/blob/master/Week%204/Stack.md)
+  
+  * [Linked List and it's types](https://github.com/Shubham230198/The-Uplift-Project-DSA/blob/master/Week%204/LinkedList.md)
+  
+  * [Queues and content](https://github.com/Shubham230198/The-Uplift-Project-DSA/blob/master/Week%204/Queue.md)
+  
+  * [Priority Queue](https://www.youtube.com/watch?v=FdObb76AmzM&list=WL&index=59) (Video)
+  
+  * Assignments:
+    - coming soon.
 
 ## Week 5
 
