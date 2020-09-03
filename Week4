@@ -1,0 +1,30 @@
+ 
+ Sorting:
+   1.Quicksort
+   2.Selection sort
+   3.Insertion sort
+   4.Bubble sort
+   5.Merge Sort
+   6.Heap Sort
+   
+Code all the above sorting techniques and in comments put the time complexity and space complexity of all the techniques.
+
+Searching:
+    1. Binary Search
+    2. Linear Search
+
+Code both the searching algorithms and in comments put the time complexity and space complexity of all the techniques.
+
+Questions based on searching and sorting are:
+
+Do any 5 question from the given link of sorting:
+
+"https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=arrays-and-sorting"
+
+Do any 5 question from the given link of searching:
+
+"https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=search"
+
+Complete this assignment by the end of the month and update the repo regularly.
+Issue rules and all remaining stuff remains same
+Happy Coding:))

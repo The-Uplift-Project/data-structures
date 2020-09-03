@@ -1,0 +1,10 @@
+Write the code for Kruskals Algorithm, Prims Algorithm, Dijkstra's Algorithm
+These all are greedy approaches.
+
+Resources:
+Kruskal Algo: https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/
+Prims Algo: https://www.geeksforgeeks.org/prims-minimum-spanning-tree-mst-greedy-algo-5/
+Dijkstras Algo: https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/
+
+Write time complexity and space complexity in comments;
+Happy Coding:))
